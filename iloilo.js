@@ -1,4 +1,4 @@
 
 btnBooknow.onclick = function(){
-    alert("Successfully saved bookings.")
+    alert("Ready to view the booking details.")
 }
